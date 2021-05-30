@@ -11,7 +11,7 @@ namespace DapperTese01
 {
     public class ManagePerson
     {
-        private static string ConnectionString = "Data Source =.; Initial Catalog = Name of DB; User ID =***; Password =*****; ";
+        private static string ConnectionString = "Data Source =.; Initial Catalog = Name of DB; User ID =****; Password =********; ";
 
         public static List<Person> GetAllPerson()
         {
